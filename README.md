@@ -1,3 +1,6 @@
+# KEY: Correctly functions but Missing Comments :-(
+# KEY: In future please remove any code that is not of your solution submission as hard to tell what to grade
+
 # Python Review of Misc Topics - JavaScript/Python comparison, Loops, Functions
 
 ### Problem 1:
